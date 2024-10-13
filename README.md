@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
+![JAVA](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 
 ### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)
