@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Sho Ming Kang
 
+<p align="center"><strong>A person who is passionate about web development and mobile development.</strong></p>
+
 - 🔭 I’m currently working on Internseek.
 - 🌱 I’m currently learning on MEVN and Next.js.
 - 📫 How to reach me: shoning858@gmail.com
