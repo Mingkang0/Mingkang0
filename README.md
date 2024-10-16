@@ -9,13 +9,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mingkang0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Mingkang0's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mingkang0&theme=vue-dark&hide_border=true" alt="Mingkang0's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mingkang0&theme=react&show_icons=true&hide_border=false&count_private=true" alt="Mingkang0's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mingkang0&theme=react&hide_border=false" alt="Mingkang0's Streak" />
 </div>
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingkang0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Mingkang's most used language">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingkang0&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Mingkang's most used language">
 </div>
 
 
