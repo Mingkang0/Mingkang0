@@ -2,8 +2,8 @@
 
 <p align="center"><strong>A person who is passionate about web development and mobile development.</strong></p>
 
-- 🔭 I’m currently working on Internseek.
-- 🌱 I’m currently learning on MEVN and Next.js.
+- 🔭 I’m currently working on Personal Project.
+- 🌱 I’m currently learning on ASP.Net.
 - 📫 How to reach me: shoning858@gmail.com
 - ⚡ Fun fact: I love listening to music.
 
